@@ -1,6 +1,0 @@
-fastapi[standard]
-uvicorn[standard]
-jinja2
-toml
-fastapi-tailwind
-Markdown
