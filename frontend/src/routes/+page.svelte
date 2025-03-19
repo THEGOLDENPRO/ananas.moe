@@ -6,6 +6,17 @@
 
 <svelte:head>
     <title>Home</title>
+
+    <meta content="Ananas • Home" property="og:title">
+    <meta content="My website" property="og:description">
+    <meta content="ananas.moe" property="og:site_name">
+    <meta name="theme-color" content="#ffcb00">
+    <meta content="https://ananas.moe/me.webp" property='og:image'>
+
+    <meta name="twitter:title" content="Ananas • Home">
+    <meta name="twitter:description" content="My website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:src" content="https://ananas.moe/me.webp">
 </svelte:head>
 
 <div class="flex flex-col">
